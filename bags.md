@@ -8,6 +8,7 @@
 - 평상복 상하의 1벌
 - 우비
 - 바람막이
+- [클릿슈즈](https://www.bikewhat.com/index.php?mid=Review&document_srl=215141&listStyle=viewer)
 
 ## 전자기기
 - 배터리
