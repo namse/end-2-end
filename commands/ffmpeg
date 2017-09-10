@@ -1,2 +1,2 @@
 # Desktop Sound to RTMP(AAC) --> HLS
-ffmpeg -f dshow -i audio="virtual-audio-capturer" -codec:a libvo_aacenc -threads 0 -f flv "http://13.124.203.7/hls/111"
+ffmpeg -f dshow -i audio="virtual-audio-capturer" -codec:a libvo_aacenc -threads 0 -f flv "rtmp://13.124.203.7/hls/111"
